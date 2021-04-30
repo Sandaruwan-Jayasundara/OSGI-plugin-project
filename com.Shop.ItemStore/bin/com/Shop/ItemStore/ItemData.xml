@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<store>
+    <item>
+        <id>1</id>
+        <name>banana</name>
+        <price>75</price>
+        <qty>20</qty>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Orange</name>
+        <price>20</price>
+        <qty>10</qty>
+    </item>
+</store>

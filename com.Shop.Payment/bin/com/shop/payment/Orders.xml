@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<payment>
+    <order>
+        <method>Credit Card</method>
+        <cnumber>8459856325</cnumber>
+        <oid>1</oid>
+        <total>1000.0</total>
+    </order>
+</payment>

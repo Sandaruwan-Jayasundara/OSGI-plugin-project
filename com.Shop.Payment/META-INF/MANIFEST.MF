@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Payment
+Bundle-SymbolicName: com.Shop.Payment
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.shop.payment.PaymentActivator
+Bundle-Vendor: SHOP
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: com.Shop.Payment
+Import-Package: com.shop.delivery,
+ com.shop.payment,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.shop.payment

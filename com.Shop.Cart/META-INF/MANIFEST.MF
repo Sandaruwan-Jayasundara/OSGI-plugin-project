@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cart
+Bundle-SymbolicName: com.Shop.Cart
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.shop.cart.CartActivator
+Bundle-Vendor: SHOP
+Bundle-RequiredExecutionEnvironment: JavaSE-14
+Automatic-Module-Name: com.Shop.Cart
+Import-Package: com.Shop.ItemStore,
+ com.shop.payment,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.shop.cart

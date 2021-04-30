@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ItemStore
+Bundle-SymbolicName: com.Shop.ItemStore
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.Shop.ItemStore.StoreActivator
+Bundle-Vendor: SHOP
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: com.Shop.ItemStore
+Import-Package: com.shop.cart,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.Shop.ItemStore

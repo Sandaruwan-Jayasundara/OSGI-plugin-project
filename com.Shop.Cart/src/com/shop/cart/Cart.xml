@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cart>
+    <item>
+        <name>banana</name>
+        <price>200.0</price>
+        <qty>5</qty>
+    </item>
+</cart>
